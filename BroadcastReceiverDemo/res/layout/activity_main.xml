@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="registerReceiver"
+ 	/>
+    
+   <Button
+        android:id="@+id/btn_unregister"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="unregisterReceiver"
+ 	/>
+   
+   <Button
+        android:id="@+id/btn_send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="send"
+ 	/>
+    
+
+</LinearLayout>

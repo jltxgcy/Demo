@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">MessengerService</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_messenger_service">MessengerServiceActivity</string>
+      <string name="remote_service_started">Remote service has started</string>
+    <string name="remote_service_stopped">Remote service has stopped</string>
+          <string name="remote_service_connected">Remote service has connected</string>
+    <string name="remote_service_disconnected">Remote service has disconnected</string>
+    <string name="remote_service_label">Sample Remote Service</string>
+        <string name="bind_service">Bind Service</string>
+    <string name="unbind_service">Unbind Service</string>
+    <string name="local_service_connected">Connected to local service</string>
+    <string name="local_service_disconnected">Disconnected from local service</string>
+
+    <string name="activity_messenger_service_binding">App/Service/Messenger Service</string>
+    <string name="messenger_service_binding">This demonstrates how you can communicate with
+        a remote service using Messenger.</string>
+
+</resources>
